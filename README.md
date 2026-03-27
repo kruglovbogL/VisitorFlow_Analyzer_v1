@@ -14,7 +14,7 @@ python main.py --video data/video1.mp4 --output results/output.mp4
 ```
 
 [![🟰](img2.png)](img2.png)
-** После выделения рамки на изображении нажмите ENTER**
+## После выделения рамки на изображении нажмите ENTER
 [![🔢](img1.png)](img1.png)
 ## После процесса появляются файлы:
 [![](img_file.png)](img_file.png)
