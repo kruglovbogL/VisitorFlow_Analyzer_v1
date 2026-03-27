@@ -1,1 +1,0 @@
-Video: vid_3.mp4Table ROI: x=67, y=106, w=768, h=791Events logged: 60Average delay after table becomes empty: 20.70 secondsGenerated at: 2026-03-26T23:45:03.894564
