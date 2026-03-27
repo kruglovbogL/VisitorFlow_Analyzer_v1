@@ -10,4 +10,4 @@
 
 ```bash
 pip install -r requirements.txt
-python main.py --video data/video1.mp4
+python main.py --video data/video1.mp4 --output results/out.mp4
