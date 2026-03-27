@@ -1,6 +1,0 @@
-python>=3.8
-opencv-python>=4.8.0
-opencv-contrib-python>=4.8.0
-pandas>=2.0.0
-ultralytics>=8.0.0
-numpy>=1.21.0
